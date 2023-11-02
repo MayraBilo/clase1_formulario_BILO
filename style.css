@@ -1,0 +1,20 @@
+
+h1 {
+    margin-left: 50px;
+    font-weight: bolder;
+}
+form {
+    width: 50vw;
+    background-color: aquamarine;
+    padding: 8px;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px black;
+    text-align: center;
+    font-weight: bold;
+   
+
+}
+
+input, select{
+    box-shadow: 0 4px 8px black;
+}
